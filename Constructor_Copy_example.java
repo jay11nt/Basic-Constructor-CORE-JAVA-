@@ -2,7 +2,9 @@ package corejava;
 
 class E
 {
-	int a;String b,c; 
+	int a;
+	String b,c; 
+	
 	E()
 	{
 		a=10; b="Ajay"; c="Mandhare";
