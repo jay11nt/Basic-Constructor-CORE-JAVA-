@@ -7,7 +7,9 @@ class E
 	
 	E()
 	{
-		a=10; b="Ajay"; c="Mandhare";
+		a=10; 
+		b="Ajay"; 
+		c="Mandhare";
 		System.out.println(a+" "+b+" "+c);
 	}
 	
