@@ -5,11 +5,12 @@ class Constructor_private_example
 	int a; 
 	double b; 
 	String c;
+	
 	private Constructor_private_example()             //Private Constructor
-	{
+	    {
 		a=10; b=20.3; c="Pass";
 		System.out.println(a+" "+b+" "+c);
-	}
+	    }
 	
 	static void show()
 	{
