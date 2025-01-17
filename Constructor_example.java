@@ -27,14 +27,13 @@ class A
 	    }
 }
 
-public class Constructor_example 
-{
-
+  public class Constructor_example 
+   {
 	public static void main(String[] args)
-	   {
+	    {
 		A c = new A();
 		c.disp();
 		c.show();
-	   }
+	    }
 
-}
+   }
