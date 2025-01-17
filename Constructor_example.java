@@ -5,7 +5,8 @@ package corejava;
 class A
 {
 	int a; 
-	String b; boolean c;
+	String b;
+	boolean c;
 	A()                  //default constructor
 	{
 		a=50; b="ajay"; c=true;
