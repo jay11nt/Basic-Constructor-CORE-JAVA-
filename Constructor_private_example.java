@@ -20,10 +20,10 @@ class Constructor_private_example
 		System.out.println(c);
 	    }
 	
-	public static void main(String[] args)
+public static void main(String[] args)
 	{
-		Constructor_private_example r=new Constructor_private_example();
-		r.show();
+	      Constructor_private_example r = new Constructor_private_example();
+	      r.show();
 
 	}
 
